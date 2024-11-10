@@ -1,0 +1,7 @@
+# Unreal Engine files to ignore
+*.log
+*.tmp
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
